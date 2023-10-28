@@ -1,0 +1,8 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal " and " 4 times.( ÑêÌşÿÿÿÿ8³±ß¢¶1
+L	java:S106"+Replace this use of System.out by a logger.( ÑêÌşÿÿÿÿ8Ã±ß¢¶1
+L	java:S106"+Replace this use of System.out by a logger.(ù»çœÿÿÿÿÿ8Ä±ß¢¶1
+G	java:S106"+Replace this use of System.out by a logger.(¥êğ8Æ±ß¢¶1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­€—øûÿÿÿÿ8Æ±ß¢¶1
+G	java:S106"+Replace this use of System.out by a logger.(ÃœÆ 8Ç±ß¢¶1

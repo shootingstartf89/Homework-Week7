@@ -1,0 +1,6 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—£í8¾ûâõµ1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(—£í8Äûâõµ1
+G	java:S106"+Replace this use of System.out by a logger.(ä´8Åûâõµ1
+L	java:S106	"+Replace this use of System.out by a logger.(ÆÍùÿÿÿÿ8Åûâõµ1
